@@ -1,0 +1,10 @@
+In a single toss of  2fair (evenly-weighted) six-sided dice,
+find the probability that their sum will be at most 9.
+
+1) 2/3
+2) 5/6
+3) 1/4
+4) 1/6
+
+전체 경우의 수 : [1,1] [1,2] ... [6,6] =>36
+9가 넘는 경우 : [4,6] [5,5] [5,6] [6,4] [6,5] [6,6] => 6
