@@ -1,0 +1,11 @@
+Suppose a family has 2 children, one of which is a boy. 
+What is the probability that both children are boys?
+
+1) 1/3
+2) 1/2
+3) 2/3
+4) 1/9
+
+	남	여
+남	남남	남여
+여	여남	여여
